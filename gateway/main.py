@@ -21,7 +21,7 @@ SERVICES = {
     "course": "http://127.0.0.1:8002",
 }
 
-JWT_SECRET = "CHANGE_THIS_SECRET"  
+JWT_SECRET = "IT22158086"  
 JWT_ALG = "HS256"
 security = HTTPBearer()
 
